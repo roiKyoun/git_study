@@ -1,0 +1,10 @@
+
+
+I don't know well to use vi editor .. 
+then can i install nano editor ? 
+
+
+this is more easy to edit code in git base 
+
+I'll try many of things in here 
+
